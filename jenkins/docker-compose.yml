@@ -1,5 +1,4 @@
 version: '2'
-
 services:
   jenkins:
     image: docker.io/bitnami/jenkins:2
